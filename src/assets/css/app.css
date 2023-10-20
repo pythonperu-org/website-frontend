@@ -119,6 +119,10 @@ body.pp-page__wrapper {
     margin: 0 auto;
 }
 
+.pp-collaborator__picture.pp-wide {
+    max-width: none;
+}
+
 .animate__animated {
     animation-duration: 1s;
     animation-fill-mode: both;
