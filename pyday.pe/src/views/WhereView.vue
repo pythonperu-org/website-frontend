@@ -23,7 +23,7 @@ import RegistrationButton from '../components/RegistrationButton.vue'
           </div>
           <div class="grow px-2 py-4">
             <p><strong>UPC Campus Monterico</strong></p>
-            <p>Aula Magna No. 1</p>
+            <p>Aula Magna No. 2</p>
             <p>Prolongación Primavera 2390, Monterrico, Santiago de Surco</p>
           </div>
         </div>
